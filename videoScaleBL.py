@@ -4,8 +4,8 @@ videoScaleBL.py
 N. Mizumoto
 """
 # Parameters (modify before run)
-input_dir       = r'C:\Users\nobua\python-soft'  # input directly
-output_dir      = r'C:\Users\nobua\python-soft'  # output directly
+input_dir       = r'C:\Users\directly for input' 
+output_dir      = r'C:\Users\directly for output'
 num_ind         = 2                              # number of individuals
 video_format    = ".mp4"
 frame_interval  = 3000                           # interval for sampling frame
